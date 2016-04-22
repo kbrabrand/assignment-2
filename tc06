@@ -61,7 +61,6 @@
 	<td>//a[contains(@class, 'top-cart-info-count')]</td>
 	<td>2 items</td>
 </tr>
-
 </tbody></table>
 </body>
 </html>
