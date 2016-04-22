@@ -42,6 +42,11 @@
 	<td></td>
 </tr>
 <tr>
+	<td>waitForText</td>
+	<td>//a[contains(@class, 'top-cart-info-count')]</td>
+	<td>1 items</td>
+</tr>
+<tr>
 	<td>clickAndWait</td>
 	<td>link=DVD</td>
 	<td></td>
@@ -57,7 +62,7 @@
 	<td></td>
 </tr>
 <tr>
-	<td>assertText</td>
+	<td>waitForText</td>
 	<td>//a[contains(@class, 'top-cart-info-count')]</td>
 	<td>2 items</td>
 </tr>
