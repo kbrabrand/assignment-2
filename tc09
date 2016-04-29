@@ -61,6 +61,11 @@
 	<td>//li[contains(@class, 'active')]//li[contains(@class, 'active')]</td>
 	<td>Kids DVDs</td>
 </tr>
+<tr>
+	<td>waitForText</td>
+	<td>//a[contains(@class,'top-cart-info-count')]</td>
+	<td>1 items</td>
+</tr>
 </tbody></table>
 </body>
 </html>
