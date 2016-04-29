@@ -17,6 +17,11 @@
 	<td></td>
 </tr>
 <tr>
+	<td>open</td>
+	<td>/4.7.9/</td>
+	<td></td>
+</tr>
+<tr>
 	<td>clickAndWait</td>
 	<td>css=a.site-logo</td>
 	<td></td>
