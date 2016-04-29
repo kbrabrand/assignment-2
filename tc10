@@ -151,6 +151,11 @@
 	<td>//input[@value='Place Order']</td>
 	<td></td>
 </tr>
+<tr>
+	<td>waitForText</td>
+	<td>css=h1</td>
+	<td>Thank you for your order!</td>
+</tr>
 </tbody></table>
 </body>
 </html>
