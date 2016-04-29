@@ -67,6 +67,11 @@
 	<td></td>
 </tr>
 <tr>
+	<td>waitForText</td>
+	<td>//a[contains(@class,'top-cart-info-count')]</td>
+	<td>2 items</td>
+</tr>
+<tr>
 	<td>clickAndWait</td>
 	<td>link=View Cart</td>
 	<td></td>
@@ -76,7 +81,6 @@
 	<td>name=quantity_in_cart[0]</td>
 	<td>2</td>
 </tr>
-
 </tbody></table>
 </body>
 </html>
