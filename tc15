@@ -37,6 +37,11 @@
 	<td></td>
 </tr>
 <tr>
+	<td>waitForText</td>
+	<td>//a[contains(@class,'top-cart-info-count')]</td>
+	<td>1 items</td>
+</tr>
+<tr>
 	<td>clickAndWait</td>
 	<td>link=Checkout</td>
 	<td></td>
@@ -44,6 +49,11 @@
 <tr>
 	<td>waitForElementPresent</td>
 	<td>//input[@value='Continue Checkout']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertElementPresent</td>
+	<td>link=Continue Shopping</td>
 	<td></td>
 </tr>
 </tbody></table>
