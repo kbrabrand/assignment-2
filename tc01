@@ -27,8 +27,18 @@
 	<td></td>
 </tr>
 <tr>
+	<td>waitForElementPresent</td>
+	<td>css=button.btn.btn-default</td>
+	<td></td>
+</tr>
+<tr>
 	<td>clickAndWait</td>
 	<td>css=button.btn.btn-default</td>
+	<td></td>
+</tr>
+<tr>
+	<td>waitForElementPresent</td>
+	<td>name=customer_info[Customer][Email]</td>
 	<td></td>
 </tr>
 <tr>
