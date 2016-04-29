@@ -156,6 +156,11 @@
 	<td>css=h1</td>
 	<td>Thank you for your order!</td>
 </tr>
+<tr>
+	<td>waitForText</td>
+	<td>//a[contains(@class,'top-cart-info-count')]</td>
+	<td>0 items</td>
+</tr>
 </tbody></table>
 </body>
 </html>
